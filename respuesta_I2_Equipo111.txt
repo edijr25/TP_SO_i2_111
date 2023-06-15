@@ -10,3 +10,50 @@ d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quie
 el fork? Si, se pierden si estoy actualizando el fork 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
+
+Paso 1:
+Edicilio Lopez
+
+Creo repositorio, descargo repo de forma local a traves del git clone y añadio el archivo fork.txt
+e hizo push a su repositorio.
+
+Paso 2:
+Jimmy Acosta
+
+Hizo un fork del repositorio, lo clono de forma local a traves del git clone, modifico el archivo fork.txt
+puso la ip de la maquina con el comando ipconfig, la hora con el comando time y realizo los siguientes comandos
+git add .
+git commit -m "Mensaje descriptivo del commit"
+git push
+
+Paso 3:
+Vasquez Yober
+ 
+Hizo un fork del repositorio, lo clono de forma local a traves del git clone, modifico el archivo fork.txt
+puso la ip de la maquina con el comando ipconfig, la hora con el comando time y realizo los siguientes comandos
+git add .
+git commit -m "Mensaje descriptivo del commit"
+git push
+
+Paso 4:
+Edicilio Lopez
+
+Clono el repositorio a traves del git clone, añadio los archivos respuesta_I2_Equipo111.txt y nuevodato.txt
+luego realizo los siguientes comandos:
+git add .
+git commit -m "Mensaje descriptivo del commit"
+git push
+
+Paso 5:
+Acosta Jimmy y Vasquez Yober
+
+Actualizamos los cambios del repositorio de Beta a traves del boton Synk fork de github
+
+Paso 6:
+Edicilio Lopez, Jimmy Acosta y Yober Vasquez
+
+hicimos git clone, respondimos las preguntas del archivo respuesta_I2_Equipo111.txt e hicimos los siguientes comandos:
+
+git add .
+git commit -m "Mensaje descriptivo del commit"
+git push
