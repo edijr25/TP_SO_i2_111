@@ -5,8 +5,8 @@ GAMMA: Jimmy Acosta
 
 a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK? Sincronizando con el boton sync fork
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA? Si,solo si beta actualizo los cambios en su repositorio local
-c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA? Solo si Beta realiza los cambios de Alfa en su repositorio local
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
-el fork?
+el fork? Si, se pierden si estoy actualizando el fork 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
